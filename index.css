@@ -1,0 +1,16 @@
+.flex{
+    display: flex;
+}
+
+.flex-reverse{
+    justify-content: flex-end;
+}
+
+a.icon{
+    text-decoration: none;
+    padding-left: 5px;
+}
+
+a.icon img{
+    width: 30px;
+}
